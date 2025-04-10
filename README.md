@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+Email: mikenpeace@gmail.com
 
 <!---
 peacemike/peacemike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
