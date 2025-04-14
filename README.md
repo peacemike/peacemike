@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/6f0653eb-9a23-47e5-a453-7be492ec6894)
 
-Email: mikenpeace@gmail.com
+Email: Hansenineza@gmail.com
 
 <!---
 peacemike/peacemike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
